@@ -7,7 +7,7 @@ then start labeling easily by selecting the label from dropdown list on right si
 
 finally push add label or press Ctrl + A
 
-When you have some data and a relatively traned model , you can use the Auto Label button to automaticcaly label the image and then you should just correct the labeled which are automatically added to your image . 
+In case you have labeled some images and have a relatively trained model , you can use the Auto Label button to automaticcaly label the image and then you should just correct the labeled which are automatically added to your image . 
 
 It is the python version of this application , and as you kno there are better softwares for doing this kind of applications , So I am working on another version of it on Delphi which will be published soon . 
 
