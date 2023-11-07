@@ -1,5 +1,6 @@
 # sobanis_labeling
 It is a very easy labeling tool for YOLO image detection .
+
 Simply select an image , then you can use Crop/Edit button to rotate or crop it , 
 then start labeling easily by selecting the label from dropdown list on right side and left and right clicking on the image . 
 finally push add label or press Ctrl + A
