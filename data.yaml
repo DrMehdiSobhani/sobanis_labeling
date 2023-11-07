@@ -1,0 +1,15 @@
+path: .
+train: images/train
+val: images/validation
+names:
+  0: leaf
+  1: felfel_sabz
+  2: felfel_zard
+  3: felfel_red
+  4: dis_mg
+  5: dis_sefid_poodri
+  6: dis_fumajin
+  7: dis_ff1
+  8: lak_poodri
+  9: lak_mg
+  
