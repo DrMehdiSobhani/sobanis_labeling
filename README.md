@@ -3,18 +3,18 @@ It is a very easy labeling tool for YOLO image detection .
 
 ![Sobanis Labeling ](screenshot.png)
 
-Simply select an image , then you can use Crop/Edit button to rotate or crop it , 
+Simply select an image, then use the Crop/Edit button to rotate or crop it.
 
-then start labeling easily by selecting the label from dropdown list on right side and left and right clicking on the image . 
+Start labeling easily by selecting a label from the dropdown list on the right side and left and right clicking on the image. 
 
-finally push add label or press Ctrl + A
+finally  press "Add label" or use Ctrl + A.
 
-In case you have labeled some images and have a relatively trained model , you can use the Auto Label button to automaticcaly label the image and then you should just correct the labeled which are automatically added to your image . 
+If you have already labeled some images and trained a model, the Auto Label button can automatically label the image for you, which you can then correct if needed.
 
-It is the python version of this application , and as you kno there are better softwares for doing this kind of applications , So I am working on another version of it on Delphi which will be published soon . 
+This version of the application is written in Python. However, I am currently working on a new version using Delphi, which will be released soon and is more user-freindly.
 
-Feel free to fork it and pls refrence to me when doing so . 
+Feel free to fork it and pls refrence me when doing so. 
 
-Good luck
+Good luck!
 
-Dr Mehdi Sobhani
+Dr. Mehdi Sobhani
